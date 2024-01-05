@@ -1,0 +1,58 @@
+C:\Users\Leonardo\Operador\bin\Debug\net7.0\Operador.exe
+C:\Users\Leonardo\Operador\bin\Debug\net7.0\Operador.deps.json
+C:\Users\Leonardo\Operador\bin\Debug\net7.0\Operador.runtimeconfig.json
+C:\Users\Leonardo\Operador\bin\Debug\net7.0\Operador.dll
+C:\Users\Leonardo\Operador\bin\Debug\net7.0\Operador.pdb
+C:\Users\Leonardo\Operador\obj\Debug\net7.0\Operador.csproj.AssemblyReference.cache
+C:\Users\Leonardo\Operador\obj\Debug\net7.0\Operador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Operador\obj\Debug\net7.0\Operador.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Operador\obj\Debug\net7.0\Operador.AssemblyInfo.cs
+C:\Users\Leonardo\Operador\obj\Debug\net7.0\Operador.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Operador\obj\Debug\net7.0\Operador.dll
+C:\Users\Leonardo\Operador\obj\Debug\net7.0\refint\Operador.dll
+C:\Users\Leonardo\Operador\obj\Debug\net7.0\Operador.pdb
+C:\Users\Leonardo\Operador\obj\Debug\net7.0\Operador.genruntimeconfig.cache
+C:\Users\Leonardo\Operador\obj\Debug\net7.0\ref\Operador.dll
+C:\Users\assistencia02\Desktop\Operador\bin\Debug\net7.0\Operador.exe
+C:\Users\assistencia02\Desktop\Operador\bin\Debug\net7.0\Operador.deps.json
+C:\Users\assistencia02\Desktop\Operador\bin\Debug\net7.0\Operador.runtimeconfig.json
+C:\Users\assistencia02\Desktop\Operador\bin\Debug\net7.0\Operador.dll
+C:\Users\assistencia02\Desktop\Operador\bin\Debug\net7.0\Operador.pdb
+C:\Users\assistencia02\Desktop\Operador\obj\Debug\net7.0\Operador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\assistencia02\Desktop\Operador\obj\Debug\net7.0\Operador.AssemblyInfoInputs.cache
+C:\Users\assistencia02\Desktop\Operador\obj\Debug\net7.0\Operador.AssemblyInfo.cs
+C:\Users\assistencia02\Desktop\Operador\obj\Debug\net7.0\Operador.csproj.CoreCompileInputs.cache
+C:\Users\assistencia02\Desktop\Operador\obj\Debug\net7.0\Operador.dll
+C:\Users\assistencia02\Desktop\Operador\obj\Debug\net7.0\refint\Operador.dll
+C:\Users\assistencia02\Desktop\Operador\obj\Debug\net7.0\Operador.pdb
+C:\Users\assistencia02\Desktop\Operador\obj\Debug\net7.0\Operador.genruntimeconfig.cache
+C:\Users\assistencia02\Desktop\Operador\obj\Debug\net7.0\ref\Operador.dll
+C:\Users\assistencia02\Desktop\teste1\obj\Debug\net7.0\Operador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\assistencia02\Desktop\teste1\obj\Debug\net7.0\Operador.AssemblyInfoInputs.cache
+C:\Users\assistencia02\Desktop\teste1\obj\Debug\net7.0\Operador.AssemblyInfo.cs
+C:\Users\assistencia02\Desktop\teste1\obj\Debug\net7.0\Operador.csproj.CoreCompileInputs.cache
+C:\Users\assistencia02\Desktop\teste1\obj\Debug\net7.0\Operador.dll
+C:\Users\assistencia02\Desktop\teste1\obj\Debug\net7.0\refint\Operador.dll
+C:\Users\assistencia02\Desktop\teste1\obj\Debug\net7.0\Operador.pdb
+C:\Users\assistencia02\Desktop\teste1\bin\Debug\net7.0\Operador.exe
+C:\Users\assistencia02\Desktop\teste1\bin\Debug\net7.0\Operador.deps.json
+C:\Users\assistencia02\Desktop\teste1\bin\Debug\net7.0\Operador.runtimeconfig.json
+C:\Users\assistencia02\Desktop\teste1\bin\Debug\net7.0\Operador.dll
+C:\Users\assistencia02\Desktop\teste1\bin\Debug\net7.0\Operador.pdb
+C:\Users\assistencia02\Desktop\teste1\obj\Debug\net7.0\Operador.genruntimeconfig.cache
+C:\Users\assistencia02\Desktop\teste1\obj\Debug\net7.0\ref\Operador.dll
+C:\Users\Leonardo\OneDrive\Área de Trabalho\teste1\bin\Debug\net7.0\Operador.exe
+C:\Users\Leonardo\OneDrive\Área de Trabalho\teste1\bin\Debug\net7.0\Operador.deps.json
+C:\Users\Leonardo\OneDrive\Área de Trabalho\teste1\bin\Debug\net7.0\Operador.runtimeconfig.json
+C:\Users\Leonardo\OneDrive\Área de Trabalho\teste1\bin\Debug\net7.0\Operador.dll
+C:\Users\Leonardo\OneDrive\Área de Trabalho\teste1\bin\Debug\net7.0\Operador.pdb
+C:\Users\Leonardo\OneDrive\Área de Trabalho\teste1\obj\Debug\net7.0\Operador.csproj.AssemblyReference.cache
+C:\Users\Leonardo\OneDrive\Área de Trabalho\teste1\obj\Debug\net7.0\Operador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\OneDrive\Área de Trabalho\teste1\obj\Debug\net7.0\Operador.AssemblyInfoInputs.cache
+C:\Users\Leonardo\OneDrive\Área de Trabalho\teste1\obj\Debug\net7.0\Operador.AssemblyInfo.cs
+C:\Users\Leonardo\OneDrive\Área de Trabalho\teste1\obj\Debug\net7.0\Operador.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\OneDrive\Área de Trabalho\teste1\obj\Debug\net7.0\Operador.dll
+C:\Users\Leonardo\OneDrive\Área de Trabalho\teste1\obj\Debug\net7.0\refint\Operador.dll
+C:\Users\Leonardo\OneDrive\Área de Trabalho\teste1\obj\Debug\net7.0\Operador.pdb
+C:\Users\Leonardo\OneDrive\Área de Trabalho\teste1\obj\Debug\net7.0\Operador.genruntimeconfig.cache
+C:\Users\Leonardo\OneDrive\Área de Trabalho\teste1\obj\Debug\net7.0\ref\Operador.dll
