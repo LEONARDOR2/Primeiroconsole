@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leonardo\\OneDrive\\Área de Trabalho\\teste1\\Operador.csproj": {}
+    "c:\\Users\\Leonardo\\OneDrive\\Área de Trabalho\\teste1\\Operador.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leonardo\\OneDrive\\Área de Trabalho\\teste1\\Operador.csproj": {
+    "c:\\Users\\Leonardo\\OneDrive\\Área de Trabalho\\teste1\\Operador.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leonardo\\OneDrive\\Área de Trabalho\\teste1\\Operador.csproj",
+        "projectUniqueName": "c:\\Users\\Leonardo\\OneDrive\\Área de Trabalho\\teste1\\Operador.csproj",
         "projectName": "Operador",
-        "projectPath": "C:\\Users\\Leonardo\\OneDrive\\Área de Trabalho\\teste1\\Operador.csproj",
+        "projectPath": "c:\\Users\\Leonardo\\OneDrive\\Área de Trabalho\\teste1\\Operador.csproj",
         "packagesPath": "C:\\Users\\Leonardo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leonardo\\OneDrive\\Área de Trabalho\\teste1\\obj\\",
+        "outputPath": "c:\\Users\\Leonardo\\OneDrive\\Área de Trabalho\\teste1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

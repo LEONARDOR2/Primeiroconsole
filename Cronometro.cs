@@ -1,13 +1,5 @@
 using System;
-using System.Runtime.InteropServices;
 using System.Threading;
-using System.IO;
-using System.Text;
-using System.ComponentModel.Design;
-using System.Threading.Tasks;
-using System.Security.Cryptography;
-using System.Security.Cryptography.X509Certificates;
-using System.Text.RegularExpressions;
 
 namespace Operador
 {

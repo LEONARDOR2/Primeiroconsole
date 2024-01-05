@@ -16,7 +16,7 @@ namespace Operador
                  try
                  {
 
-                 Console.WriteLine("                                                                                #OPERADOR#");
+                 Console.WriteLine("                                                   #OPERADOR#");
                  Console.WriteLine($"                                       {data1}");
                  Console.WriteLine(" ");
                  Console.WriteLine(" Menu Principal ");
@@ -69,7 +69,7 @@ namespace Operador
                           Console.WriteLine("  ");
                           Console.WriteLine("VOLTANDO...");
                           Thread.Sleep(2500);
-                          Principal();
+                          Menu.Principal();
                           
                       }
 
