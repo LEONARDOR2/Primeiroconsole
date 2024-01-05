@@ -17,7 +17,7 @@ namespace Operador
     }
 
 }
-// vinicius teste commit
+
 
      
 
